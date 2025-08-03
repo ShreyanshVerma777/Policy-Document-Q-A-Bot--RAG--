@@ -1,0 +1,11 @@
+dotenv
+huggingface_hub
+PyPDF2
+gradio
+os
+langchain.text_splitter
+langchain_huggingface
+langchain_groq 
+langchain.vectorstores
+langchain.memory
+langchain.chains
